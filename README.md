@@ -1,2 +1,2 @@
-# Algoritmos-de-ordena-o
-Repositório com fins didáticos.
+# Sorts
+Algoritmos de Ordenação em Java
